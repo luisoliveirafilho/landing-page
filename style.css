@@ -1,1 +1,22 @@
 @charset "UTF-8";
+*{
+
+    padding: 0px;
+}
+ 
+header{
+    background-color: brown;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+nav{
+    padding-bottom: 10px;
+    flex-direction:column;
+    text-align: right;
+}
+img{
+    padding: 10px;
+}
+body{
+    background-color: cornflowerblue;
+}
